@@ -8,7 +8,7 @@ file EPUB => ["exame-de-faixa.md", "regras-etiquena-no-dojang.md", "metadata.yam
 end
 
 task :clean do
-  rm EPUB
+  rm_rf EPUB
 end
 
 task :epub => EPUB
