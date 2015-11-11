@@ -4,8 +4,6 @@
 
 *Técnicas:* Falta escrever.
 
-![Essa imagem animada é um exemplo de como podemos ilustrar os conteúdos.](./media/movimento.gif)
-
 ## Tandjon (Respiração) – 02 Técnicas
 
 ### Início
@@ -25,7 +23,7 @@ Puxa o ar - Vai para base jum tchum mão abertas e na cintura –
 solta o ar devagar avançando as mãos para os lados e subindo até altura
 acima da cabeça e desce até a cintura novamente
 
-## Na pop sull (Rolamentos e Quedas) - 04 técnicas
+## Na pop sull (Rolamentos e Quedas) - 04 técnicass
 
 Para o exame, o Faixa Branca pode apresentar as técnicas em nível iniciante.
 
