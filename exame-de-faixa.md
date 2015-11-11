@@ -14,6 +14,10 @@ baixa)
 
 ### Apuro
 
+![](media/apuro.png)
+
+- [Vídeo demonstrando o movimento](https://youtu.be/iWUSkdQHt5U)
+
 Puxa o ar - Vai para base jum tchum mão abertas e na cintura –
 solta o ar devagar avançando as mãos para frente e volta para a cintura.
 
