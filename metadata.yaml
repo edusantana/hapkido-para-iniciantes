@@ -1,0 +1,32 @@
+---
+# Documentação das tags de matadados:
+# http://pandoc.org/demo/example9/epub-metadata.html
+# http://dublincore.org/documents/dces/
+
+author: José Neto
+language: pt-BR
+date: 2015
+cover-image: media/cover.svg
+title:
+- type: main
+  text: "Hapkido para iniciantes"
+- type: subtitle
+  text: "Faixa Branca (10º e 9º GUB)"
+- type: collection
+  text: "Arte marcial consciênte"
+source:
+relation: "https://github.com/edusantana/hapkido-para-iniciantes"
+subject:
+  - "Arte Marcial"
+  - "Hapkido"
+  - "Faixa Branca"
+  - "Movimentos"
+  - "Regras"
+  - "Etiqueta"
+creator:
+- role: editor
+  text: Eduardo de Santana Medeiros Alexandre
+#publisher: "Eduardo de Santana Medeiros Alexandre"
+#rights: © 2015 José Neto, Eduardo Santana
+"page-progression-direction": ltr
+---
