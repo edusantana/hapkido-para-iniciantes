@@ -145,7 +145,7 @@ segurando a mão dele para a esquerda e soca com a mão direita no rosto.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Projeta o corpo para o lado interno (contrario do braço
+**Defesa**: Projeta o corpo para o lado interno (contrario do braço
 segurado), avançando a perna do braço segurado, volta o braço e segura
 com a mão direita na junta do cotovelo (parte interna) apertando com o
 polegar, gira por dentro do braço, jogando o braço do adversário para as
@@ -162,7 +162,7 @@ rosto com a mão esquerda.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Projeta o corpo para o lado interno (contrario do braço
+**Defesa**: Projeta o corpo para o lado interno (contrario do braço
 segurado), avançando a perna do braço segurado, volta o braço e gira a
 mão por baixo do pulso e segura o braço e com a mão direita, aperta o
 braço (abaixo do bíceps – ponto de dor), gira por dentro do braço,
@@ -177,7 +177,7 @@ pancada com a mão esquerda aberta (em sonnal) nas costelas.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Projeta o corpo para o lado interno (contrario do braço
+**Defesa**: Projeta o corpo para o lado interno (contrario do braço
 segurado), avançando a perna do braço segurado, volta o braço segura na
 mão por cima, gira o braço, forçando com o cotovelo no cotovelo do
 adversário, jogando-o para baixo, senta segurando o braço dele, gira o
@@ -191,7 +191,7 @@ direita e aplica cotovelo esquerdo no rosto.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Segura a mão do adversário com a mão direita por baixo, avança o
+**Defesa**: Segura a mão do adversário com a mão direita por baixo, avança o
 pé esquerdo para o lado direito se ajoelhando com a perna direita,
 jogando o braço do adversário por cima, e trocando de joelho no chão,
 torce o braço com a mão direita, projetando o adversário no chão, e
@@ -204,7 +204,7 @@ com a mão direita empurrando o cotovelo do mesmo.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Puxa o braço para dentro com a mão aberta, segura o o pulso com
+**Defesa**: Puxa o braço para dentro com a mão aberta, segura o o pulso com
 a mão direita, soltando a esquerda, e com ela segura o antebraço e
 torcendo para a direita e depois empurrando o braço dele para sua
 barriga, golpeando-o com o próprio cotovelo depois puxa-o para baixo e
@@ -218,7 +218,7 @@ direita no rosto.
 
 **Atacante**: segurando o braço esquerdo.
 
-Defesa- Gira o braço segurado, meia volta para dentro, com braço
+**Defesa**: Gira o braço segurado, meia volta para dentro, com braço
 direito, prende a mão do adversário, inserindo-a por baixo e travando o
 pulso, levantado o braço. Depois gira a mão esquerda e segura a mão do
 oponente, levando o braço dele por cima de sua cabeça, avançando o pé
