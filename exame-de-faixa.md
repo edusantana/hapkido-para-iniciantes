@@ -169,9 +169,9 @@ braço (abaixo do bíceps – ponto de dor), gira por dentro do braço,
 jogando o braço do adversário para as costas, segurando com a mão
 esquerda, põe a mão direita no ombro e com a perna esquerda bate na
 perna do adversário pela frente jogando-o no solo, ainda segurando o
-braço, coloca o joelho direito no chão e o joelho esquerdo nanas costa
+braço, coloca o joelho direito no chão e o joelho esquerdo nas costa
 prendendo o braço dele, aplica 2 socos (esquerda – direita) na cabeça e
-pancada com a mão esquerda aberta (em sonnal) nas costelas.
+pancada com a mão esquerda aberta (em *sonnal*) nas costelas.
 
 ### 5º Defesa
 
@@ -180,9 +180,9 @@ pancada com a mão esquerda aberta (em sonnal) nas costelas.
 **Defesa**: Projeta o corpo para o lado interno (contrario do braço
 segurado), avançando a perna do braço segurado, volta o braço segura na
 mão por cima, gira o braço, forçando com o cotovelo no cotovelo do
-adversário, jogando-o para baixo, senta segurando o braço dele, gira o
-pulso e aperta a mão dele para paixo imobilizando-o, e segura com a
-esquerda e aplica cotovelo direito nas costelas, depois segura coma
+atacante, jogando-o para baixo, senta segurando o braço dele, gira o
+pulso e aperta a mão dele para baixo imobilizando-o, e segura com a
+esquerda e aplica cotovelo direito nas costelas, depois segura com a
 direita e aplica cotovelo esquerdo no rosto.
 
 *Depois a mesma coisa com o outro braço.*
@@ -192,7 +192,7 @@ direita e aplica cotovelo esquerdo no rosto.
 **Atacante**: segurando o braço esquerdo.
 
 **Defesa**: Segura a mão do adversário com a mão direita por baixo, avança o
-pé esquerdo para o lado direito se ajoelhando com a perna direita,
+pé esquerdo para o lado direito ajoelhando-se com a perna direita,
 jogando o braço do adversário por cima, e trocando de joelho no chão,
 torce o braço com a mão direita, projetando o adversário no chão, e
 imobilizando o braço dele empurrando, para baixo, travando no joelho e
@@ -204,12 +204,12 @@ com a mão direita empurrando o cotovelo do mesmo.
 
 **Atacante**: segurando o braço esquerdo.
 
-**Defesa**: Puxa o braço para dentro com a mão aberta, segura o o pulso com
+**Defesa**: Puxa o braço para dentro com a mão aberta, segura o pulso com
 a mão direita, soltando a esquerda, e com ela segura o antebraço e
 torcendo para a direita e depois empurrando o braço dele para sua
 barriga, golpeando-o com o próprio cotovelo depois puxa-o para baixo e
 trava o braço dele em seu joelho direito imobilizando-o e torcendo a mão
-para o lado e para dentro, segura com amão esquerda e soca-o com a
+para o lado e para dentro, segura com a mão esquerda e soca-o com a
 direita no rosto.
 
 *Depois a mesma coisa com o outro braço.*
