@@ -175,7 +175,7 @@ rosto com a mão esquerda.
 
 ![](media/video_24px.svg) [Professor ensinando](http://youtu.be/Rr619FaelBY)\
 ![](media/video_24px.svg) [Professor ensinando 2x](https://youtu.be/Lq8AXwjSNkE)\
-
+![](media/video_24px.svg) [Aluno aprendendo](http://youtu.be/C7m0NDESaog)\
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -191,6 +191,8 @@ prendendo o braço dele, aplica 2 socos (esquerda – direita) na cabeça e
 pancada com a mão esquerda aberta (em *sonnal*) nas costelas.
 
 ### 5º Defesa {#kokki5}
+
+![](media/video_24px.svg) [Professor ensinando](https://youtu.be/4r8sPiM8IxM)\
 
 **Atacante**: segurando o braço esquerdo.
 
