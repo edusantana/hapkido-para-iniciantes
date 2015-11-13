@@ -26,4 +26,4 @@ task :epub => EPUB
 task :pdf => PDF
 
 
-task :default => [:clean, EPUB, PDF]
+task :default => [:clean, EPUB]

@@ -1,4 +1,4 @@
-# Requisitos para Exame: 10º GUB para 9º Gub – Faixa Branca
+# Requisitos para Exame: 10º GUB para 9º Gub – Faixa Branca {#requisitos-exame-10-9-gub}
 
 ## Tchun bun dun (Aquecimento/Ginastica)
 
@@ -118,10 +118,12 @@ rosto, depois cotovelada para baixo, na nuca.
 
 A seguir são descritos os movimentos de *Ho shin sull* (Defesa Pessoal).
 
-### 1º Defesa
+### 1º Defesa {#kokki1}
 
 * ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/nCem0hRnR3o)
 * ![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/jDmk9WKOWHA)
+* ![](media/video_24px.svg) [Aluno aprendendo 2x](https://youtu.be/gKRfBy-uQGY)
+
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -133,7 +135,11 @@ imobiliza com braço para cima, o joelho direito, nas costas e o outro
 prendendo o braço, trava girando e apertando a mão. (2ª- mesma coisa com
 o outro braço)
 
-### 2º Defesa
+### 2º Defesa {#kokki2}
+
+* ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/8blMrO2QshY)
+* ![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/K0F8HAKe4RA)
+
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -144,7 +150,9 @@ segurando a mão dele para a esquerda e soca com a mão direita no rosto.
 
 *Depois a mesma coisa com o outro braço.*
 
-### 3º Defesa
+### 3º Defesa {#kokki3}
+
+- ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/ANMDIpoy8Yw)
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -161,7 +169,7 @@ rosto com a mão esquerda.
 
 *Depois a mesma coisa com o outro braço.*
 
-### 4º Defesa
+### 4º Defesa {#kokki4}
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -176,7 +184,7 @@ braço, coloca o joelho direito no chão e o joelho esquerdo nas costa
 prendendo o braço dele, aplica 2 socos (esquerda – direita) na cabeça e
 pancada com a mão esquerda aberta (em *sonnal*) nas costelas.
 
-### 5º Defesa
+### 5º Defesa {#kokki5}
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -190,7 +198,7 @@ direita e aplica cotovelo esquerdo no rosto.
 
 *Depois a mesma coisa com o outro braço.*
 
-### 6º Defesa
+### 6º Defesa {#kokki6}
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -203,7 +211,7 @@ com a mão direita empurrando o cotovelo do mesmo.
 
 *Depois a mesma coisa com o outro braço.*
 
-### 7º Defesa
+### 7º Defesa {#kokki7}
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -217,7 +225,7 @@ direita no rosto.
 
 *Depois a mesma coisa com o outro braço.*
 
-##### 8º Defesa
+##### 8º Defesa {#kokki8}
 
 **Atacante**: segurando o braço esquerdo.
 

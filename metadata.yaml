@@ -14,7 +14,7 @@ title:
   text: "Faixa Branca (10º e 9º GUB)"
 - type: collection
   text: "Arte marcial consciênte"
-source:
+source: "https://github.com/edusantana/hapkido-para-iniciantes"
 relation: "https://github.com/edusantana/hapkido-para-iniciantes"
 subject:
   - "Arte Marcial"
