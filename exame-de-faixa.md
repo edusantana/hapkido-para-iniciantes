@@ -120,6 +120,8 @@ A seguir são descritos os movimentos de *Ho shin sull* (Defesa Pessoal).
 
 ### 1º Defesa
 
+- [Professor ensinando](https://youtu.be/nCem0hRnR3o)
+
 **Atacante**: segurando o braço esquerdo.
 
 **Defesa**: Projeta o corpo para o lado interno (contrario do braço
