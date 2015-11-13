@@ -120,9 +120,9 @@ A seguir são descritos os movimentos de *Ho shin sull* (Defesa Pessoal).
 
 ### 1º Defesa {#kokki1}
 
-* ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/nCem0hRnR3o)
-* ![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/jDmk9WKOWHA)
-* ![](media/video_24px.svg) [Aluno aprendendo 2x](https://youtu.be/gKRfBy-uQGY)
+![](media/video_24px.svg) [Professor ensinando](https://youtu.be/nCem0hRnR3o)\
+![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/jDmk9WKOWHA)\
+![](media/video_24px.svg) [Aluno aprendendo 2x](https://youtu.be/gKRfBy-uQGY)\
 
 
 **Atacante**: segurando o braço esquerdo.
@@ -137,8 +137,8 @@ o outro braço)
 
 ### 2º Defesa {#kokki2}
 
-* ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/8blMrO2QshY)
-* ![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/K0F8HAKe4RA)
+![](media/video_24px.svg) [Professor ensinando](https://youtu.be/8blMrO2QshY)\
+![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/K0F8HAKe4RA)\
 
 
 **Atacante**: segurando o braço esquerdo.
@@ -152,7 +152,9 @@ segurando a mão dele para a esquerda e soca com a mão direita no rosto.
 
 ### 3º Defesa {#kokki3}
 
-- ![](media/video_24px.svg) [Professor ensinando](https://youtu.be/ANMDIpoy8Yw)
+![](media/video_24px.svg) [Professor ensinando](https://youtu.be/ANMDIpoy8Yw)\
+![](media/video_24px.svg) [Aluno aprendendo](http://youtu.be/QHKALmeN-6E)\
+
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -170,6 +172,10 @@ rosto com a mão esquerda.
 *Depois a mesma coisa com o outro braço.*
 
 ### 4º Defesa {#kokki4}
+
+![](media/video_24px.svg) [Professor ensinando](http://youtu.be/Rr619FaelBY)\
+![](media/video_24px.svg) [Professor ensinando 2x](https://youtu.be/Lq8AXwjSNkE)\
+
 
 **Atacante**: segurando o braço esquerdo.
 
