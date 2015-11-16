@@ -7,7 +7,7 @@
 
 2.  Manter o dobok ( uniforme ) sempre limpo e bem passado.
 
-3.  Alimente – se sempre duas horas antes do treino, para não ter
+3.  Alimente-se sempre duas horas antes do treino, para não ter
     problemas de indigestão.
 
 4.  O praticante de Hapkido deve estar sempre atento durante as aulas,
@@ -72,7 +72,7 @@
 20.  Não trazer alimentos para consumir durante as aulas, principalmente
     balas, chicletes e salgadinhos.
 
-21.  Não venha para aula se estiver doente, procure tratar – se antes.
+21.  Não venha para aula se estiver doente, procure tratar-se antes.
 
 22.  Nunca utilize gestos obscenos ou palavras de baixo nivel,
     (palavrões),na academia.
@@ -112,6 +112,3 @@
 33. Não falte com respeito para com seus instrutores, companheiros de
     treino e para com o Hapkido.‘Respeite os outros e a si mesmo, para
     poder ser respeitado”.
-
-
-

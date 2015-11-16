@@ -1,6 +1,8 @@
+% Hapkido para iniciantes
+
 # Requisitos para Exame: 10º GUB para 9º Gub – Faixa Branca {#requisitos-exame-10-9-gub}
 
-## Tchun bun dun (Aquecimento/Ginastica)
+## Tchun bun dun (Aquecimento/Ginástica)
 
 *Técnicas:* Falta escrever.
 
@@ -8,22 +10,22 @@
 
 ### Início
 
-Base – Narani sogui e mãos na altura da faixa (abertas e
-cruzadas) vai para retcho are Makki Braços em ao lado do corpo em defesa
+Base – *Narani sogui* e mãos na altura da faixa (abertas e
+cruzadas) vai para *retcho are Makki* Braços em ao lado do corpo em defesa
 baixa)
 
 ### Apuro
 
-Puxa o ar - Vai para base jum tchum mão abertas e na cintura –
+Puxa o ar - Vai para base *jum tchum* mão abertas e na cintura –
 solta o ar devagar avançando as mãos para frente e volta para a cintura.
 
 ### Yopuro
 
-Puxa o ar - Vai para base jum tchum mão abertas e na cintura –
+Puxa o ar - Vai para base *jum tchum* mão abertas e na cintura –
 solta o ar devagar avançando as mãos para os lados e subindo até altura
 acima da cabeça e desce até a cintura novamente
 
-## Na pop sull (Rolamentos e Quedas) - 04 técnicass
+## Na pop sull (Rolamentos e Quedas) - 04 técnicas
 
 Para o exame, o Faixa Branca pode apresentar as técnicas em nível iniciante.
 
@@ -39,38 +41,36 @@ Para o exame, o Faixa Branca pode apresentar as técnicas em nível iniciante.
 
 Obs: Pegar detalhes com professor
 
-1.  Kwon Pop Livre - Gira o corpo em 180 graus com as mãos abaixadas
+1.  *Kwon Pop Livre* - Gira o corpo em 180 graus com as mãos abaixadas
     e livres.
 
-2.  Kwon Pop YU (àgua) - Gira o corpo em 180 graus, avançando a mão como
+2.  *Kwon Pop YU* (àgua) - Gira o corpo em 180 graus, avançando a mão como
     se segurasse um braço e puxando ele para a sua frente.
 
-3.  Kwon Pop WON ( círculo) - Gira o corpo em 180 graus, avançando as
+3.  *Kwon Pop WON* ( círculo) - Gira o corpo em 180 graus, avançando as
     duas mãos, na altura do rosto, como se segurasse um braço e puxando
     ele para a sua cintura.
 
-4.  Kwon Pop WHA – (Harmonia) - Gira o corpo em 180 graus, avançando as
+4.  *Kwon Pop WHA* – (Harmonia) - Gira o corpo em 180 graus, avançando as
     duas mãos para frente, e puxando-as para trás.
-
-.
 
 ## Tchagui (Chutes)
 
-- Ap Tchagui
+- *Ap Tchagui*
 
-- Bacat Tchagui
+- *Bacat Tchagui*
 
-- Yop Tchagui
+- *Yop Tchagui*
 
-- Dolio are tchagui
+- *Dolio are tchagui*
 
-- Andari Kutio Nuki Tchagui
+- *Andari Kutio Nuki Tchagui*
 
-- Pitro are (Migru) Kutio Nuki are
+- *Pitro are (Migru) Kutio Nuki are*
 
-- An Tchagui
+- *An Tchagui*
 
-- Migru Kuso (Duit Are Tchagui)
+- *Migru Kuso (Duit Are Tchagui)*
 
 
 ## Zanzalio (Escapes)
@@ -116,9 +116,9 @@ A seguir são descritos os movimentos de *Ho shin sull* (Defesa Pessoal).
 
 ### 1º Defesa {#kokki1}
 
-![](media/video_24px.svg) [Professor ensinando](https://youtu.be/nCem0hRnR3o)\
-![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/jDmk9WKOWHA)\
-![](media/video_24px.svg) [Aluno aprendendo 2x](https://youtu.be/gKRfBy-uQGY)\
+> ![](media/video.svg) [Professor ensinando](https://youtu.be/nCem0hRnR3o)\
+> ![](media/video.svg) [Aluno aprendendo](https://youtu.be/jDmk9WKOWHA)\
+> ![](media/video.svg) [Aluno aprendendo 2x](https://youtu.be/gKRfBy-uQGY)\
 
 
 **Atacante**: segurando o braço esquerdo.
@@ -133,8 +133,8 @@ o outro braço)
 
 ### 2º Defesa {#kokki2}
 
-![](media/video_24px.svg) [Professor ensinando](https://youtu.be/8blMrO2QshY)\
-![](media/video_24px.svg) [Aluno aprendendo](https://youtu.be/K0F8HAKe4RA)\
+> ![](media/video.svg) [Professor ensinando](https://youtu.be/8blMrO2QshY)\
+> ![](media/video.svg) [Aluno aprendendo](https://youtu.be/K0F8HAKe4RA)\
 
 
 **Atacante**: segurando o braço esquerdo.
@@ -148,8 +148,8 @@ segurando a mão dele para a esquerda e soca com a mão direita no rosto.
 
 ### 3º Defesa {#kokki3}
 
-![](media/video_24px.svg) [Professor ensinando](https://youtu.be/ANMDIpoy8Yw)\
-![](media/video_24px.svg) [Aluno aprendendo](http://youtu.be/QHKALmeN-6E)\
+> ![](media/video.svg) [Professor ensinando](https://youtu.be/ANMDIpoy8Yw)\
+> ![](media/video.svg) [Aluno aprendendo](http://youtu.be/QHKALmeN-6E)\
 
 
 **Atacante**: segurando o braço esquerdo.
@@ -169,9 +169,9 @@ rosto com a mão esquerda.
 
 ### 4º Defesa {#kokki4}
 
-![](media/video_24px.svg) [Professor ensinando](http://youtu.be/Rr619FaelBY)\
-![](media/video_24px.svg) [Professor ensinando 2x](https://youtu.be/Lq8AXwjSNkE)\
-![](media/video_24px.svg) [Aluno aprendendo](http://youtu.be/C7m0NDESaog)\
+![](media/video.svg) [Professor ensinando](http://youtu.be/Rr619FaelBY)\
+![](media/video.svg) [Professor ensinando 2x](https://youtu.be/Lq8AXwjSNkE)\
+![](media/video.svg) [Aluno aprendendo](http://youtu.be/C7m0NDESaog)\
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -188,7 +188,7 @@ pancada com a mão esquerda aberta (em *sonnal*) nas costelas.
 
 ### 5º Defesa {#kokki5}
 
-![](media/video_24px.svg) [Professor ensinando](https://youtu.be/4r8sPiM8IxM)\
+![](media/video.svg) [Professor ensinando](https://youtu.be/4r8sPiM8IxM)\
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -229,7 +229,7 @@ direita no rosto.
 
 *Depois a mesma coisa com o outro braço.*
 
-##### 8º Defesa {#kokki8}
+### 8º Defesa {#kokki8}
 
 **Atacante**: segurando o braço esquerdo.
 
@@ -238,7 +238,7 @@ direito, prende a mão do adversário, inserindo-a por baixo e travando o
 pulso, levantado o braço. Depois gira a mão esquerda e segura a mão do
 oponente, levando o braço dele por cima de sua cabeça, avançando o pé
 esquerdo e puxando o braço, projeta o oponente no chão, coloca o
-cotovelo direito no toráx do adversário, segurando-o com a mão direita e
+cotovelo direito no tórax do adversário, segurando-o com a mão direita e
 socando com a esquerda no rosto.
 
 *Depois a mesma coisa com o outro braço.*
