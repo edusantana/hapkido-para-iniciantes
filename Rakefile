@@ -7,6 +7,10 @@ task :svg2pdf
 desc "Gera pdf do livro"
 task :pdf => :svg2pdf
 
+desc "Checa se o livro produzido está em conformidade com o formato epub"
+task :check
+
+
 
 EPUB = "hapkido-para-iniciantes.epub"
 PDF = EPUB.ext(".pdf")
@@ -20,6 +24,9 @@ file PDF => ["exame-de-faixa.md", "regras-etiquena-no-dojang.md", "metadata.yaml
   system "pandoc -s -S --toc exame-de-faixa.md regras-etiquena-no-dojang.md metadata.yaml -o #{PDF} --latex-engine=xelatex"
 end
 
+task :check => EPUB do
+    system "java -jar /home/eduardo/programas/book/epubcheck-4.0.1/epubcheck.jar #{EPUB}"
+end
 
 FileList.new('media/*.svg').each do |svg|
   file "#{svg}.pdf" => svg do
